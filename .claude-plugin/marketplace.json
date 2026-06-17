@@ -1,0 +1,17 @@
+{
+  "name": "timgavin",
+  "description": "Claude Code skills by Tim Gavin.",
+  "owner": {
+    "name": "Tim Gavin"
+  },
+  "plugins": [
+    {
+      "name": "livewire-audit",
+      "source": {
+        "source": "github",
+        "repo": "timgavin/livewire-audit"
+      },
+      "description": "Security audit for Laravel Livewire (v3/v4) apps — 27 checks across client tampering, data exposure, output, and config, with an optional --fix mode."
+    }
+  ]
+}
