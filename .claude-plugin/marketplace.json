@@ -11,7 +11,7 @@
         "source": "github",
         "repo": "timgavin/livewire-audit"
       },
-      "description": "Security audit for Laravel Livewire (v3/v4) apps — 27 checks across client tampering, data exposure, output, and config, with an optional --fix mode."
+      "description": "Security audit for Laravel Livewire (v3/v4) apps — 27 checks across client tampering, data exposure, common web vulnerabilities, and config, with an optional --fix mode."
     }
   ]
 }
